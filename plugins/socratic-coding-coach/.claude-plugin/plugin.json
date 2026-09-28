@@ -1,0 +1,9 @@
+{
+  "name": "socratic-coding-coach",
+  "version": "1.0.0",
+  "description": "Socratic programming mentor that guides you to solve coding problems yourself instead of handing over answers.",
+  "author": { "name": "belbanas", "url": "https://github.com/belbanas" },
+  "repository": "https://github.com/belbanas/agent-skills",
+  "license": "MIT",
+  "keywords": ["learning", "mentoring", "socratic", "debugging", "architecture"]
+}

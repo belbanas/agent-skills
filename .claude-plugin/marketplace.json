@@ -1,0 +1,26 @@
+{
+  "name": "belbanas-skills",
+  "owner": {
+    "name": "belbanas",
+    "url": "https://github.com/belbanas"
+  },
+  "metadata": {
+    "description": "Skills that help developers keep ownership of their code while working with AI."
+  },
+  "plugins": [
+    {
+      "name": "socratic-coding-coach",
+      "source": "./plugins/socratic-coding-coach",
+      "description": "Socratic programming mentor that guides you to solve coding problems yourself instead of handing over answers.",
+      "version": "1.0.0",
+      "category": "learning"
+    },
+    {
+      "name": "code-teach-back",
+      "source": "./plugins/code-teach-back",
+      "description": "30-second teach-back check that verifies you understand AI-assisted code before you commit or merge it.",
+      "version": "1.0.0",
+      "category": "learning"
+    }
+  ]
+}

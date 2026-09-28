@@ -1,0 +1,9 @@
+{
+  "name": "code-teach-back",
+  "version": "1.0.0",
+  "description": "30-second teach-back check that verifies you understand AI-assisted code before you commit or merge it.",
+  "author": { "name": "belbanas", "url": "https://github.com/belbanas" },
+  "repository": "https://github.com/belbanas/agent-skills",
+  "license": "MIT",
+  "keywords": ["learning", "code-review", "comprehension", "teach-back"]
+}
