@@ -2,6 +2,8 @@
 
 A Socratic programming mentor. Instead of handing you the answer, Claude asks one focused question at a time and escalates help gradually (question → direction → hint → partial example → solution), so you build the solution yourself.
 
+At the start it asks who writes the code: **you** (Claude only asks questions and reviews), or **Claude** (it writes in small steps, but you make every decision and answer a check question after each step). You can switch any time.
+
 Includes dedicated modes for **debugging** (expected vs. actual, where does it first diverge?), **architecture** (requirements, constraints, failure modes before any design), **reviewing your solution**, and **learning new concepts**.
 
 ## Triggering
